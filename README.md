@@ -1,0 +1,1 @@
+A freeCodeCamp project where we use Postgres to build a database of the celestial bodies of our universe.
